@@ -1,0 +1,7 @@
+C:\Users\lovebrar\source\repos\GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.exe.config
+C:\Users\lovebrar\source\repos\GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.exe
+C:\Users\lovebrar\source\repos\GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.pdb
+C:\Users\lovebrar\source\repos\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.csprojAssemblyReference.cache
+C:\Users\lovebrar\source\repos\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.csproj.CoreCompileInputs.cache
+C:\Users\lovebrar\source\repos\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.exe
+C:\Users\lovebrar\source\repos\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.pdb
